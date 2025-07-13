@@ -17,8 +17,8 @@
     "prepare": "husky install || true"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Will 保哥",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "xlsx": "^0.18.5"
